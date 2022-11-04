@@ -13,12 +13,12 @@
 * 欢迎各位亲提交更好插件或者开源项目。
 * 欢迎各位服主`(必须为公益服)`提交你们的`Discord/频道/QQ群`。
 
-<table align="center">
+<table align="center" border="2" >
     <tr>
     <td colspan="4" align="center"><h2>Grasscutter基础</h2></td>
     </tr>
     <tr>
-       <td align="center"><h3 align="center">基础项目</h3></td>
+       <td align="center" ><h3 align="center">基础项目</h3></td>
        <td align="center"><h3 align="center">简介</h3></td>
         <td align="center"><h3 align="center">教程</h3></td>
        <td align="center"><h3 align="center">简介</h3></td>
