@@ -1,6 +1,6 @@
 <h1 align="center">Grasscutter-资源统计</h1>
 <h2 align="center">
-<a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README.md">中文简体
+<a href="http://htmlpreview.github.io/?https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/README.html">中文简体
 | 
 <a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/README_zh-TW.md">中文繁體
 | 
