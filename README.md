@@ -4,7 +4,7 @@
 | 
 <a href="http://htmlpreview.github.io/?https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/html/README-TW.html">中文繁體
 | 
-<a href="http://htmlpreview.github.io/https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/html/README-en.html">English
+<a href="http://htmlpreview.github.io/?https://github.com/Lost-Season/Grasscutter-Plugin/blob/main/html/README-en.html">English
 </a>
 </h2>
 
